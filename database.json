@@ -12,5 +12,7 @@
   ],
   "passwordResetTokens": [],
   "orders": [],
-  "payments": []
+  "payments": [],
+  "notifications": [],
+  "supportTickets": []
 }
